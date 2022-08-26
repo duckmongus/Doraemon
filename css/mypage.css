@@ -37,6 +37,10 @@
     display: flex;
     overflow: auto;
 }
+.continue-watching a{
+    text-decoration-line: none;
+    color: white;
+}
 .continue-watching__card{
     background-color: var(--darkpurple);
     padding: 5px;
